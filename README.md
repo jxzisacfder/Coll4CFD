@@ -8,13 +8,11 @@
         #left{
             width:350px;
             height:1400px;
-            background: #ccffff;
             float: left;
         }
         #right{
             width:350px;
             height:1400px;
-            background: #ffcccc;
             float: left;
         }
     </style>
