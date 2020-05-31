@@ -71,7 +71,7 @@
 
 <table width="3000" border="0">
 <tr>
-<td colspan="2">
+<td colspan="4">
 <h1>计算流体力学</h1>
 </td>
 </tr>
