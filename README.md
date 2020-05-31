@@ -1,7 +1,24 @@
 # Coll4CFD
+<style>
+        .wrap{
+            width:900px;
+            margin:0 auto;
+            overflow: hidden;
+        }
+        #left{
+            width:350px;
+            height:1400px;
+            background: #ccffff;
+            float: left;
+        }
+        #right{
+            width:350px;
+            height:1400px;
+            background: #ffcccc;
+            float: left;
+        }
+    </style>
 
-
-***
 ## 一些启发
 > Inspiration is for amateurs. Us professionals, we just go to work in the morning. -***Chuck Close***
 >
@@ -9,99 +26,52 @@
 
 ***
 ## 计算流体力学
-
-### 网站
-* [CFD online](https://www.cfd-online.com/)
-
-* [CFD review](http://www.cfdreview.com/)
-
-* [流体中文网](http://www.cfluid.com/)
-
-* [东岳流体](http://dyfluid.com/)
-
-### 项目组
-* [CTR](https://ctr.stanford.edu/)
-
-* [pyFR](http://www.pyfr.org/)
-
-* [FPCE](https://web.stanford.edu/group/fpc/cgi-bin/fpcwiki/)
-
-* [Lorena A.Barba](https://lorenabarba.com/)
-
-* [NASA turblence](https://turbmodels.larc.nasa.gov/)
-
-* [ERCOFTAC](https://www.ercoftac.org/)
-
-### 博客
-* [luo](http://www.lions.odu.edu/~lluo/)
-
-* [abrahamgxCFD](https://sites.google.com/site/abrahamgxcfd/)
-
-* [Tomer](https://allaboutcfd-tomersblog.com/)
-
-* [visualroom](http://www.thevisualroom.com/index.html)
-
-* [ME YongWang](https://meywang.wordpress.com/)
-
-* [硫酸亚铜](https://www.cnblogs.com/liusuanyatong/)
-
-* [CFD is the future](http://cfd2012.com/index.html)
-
-* [流沙](https://www.cnblogs.com/LSCAX/)
-
-* [刘未鹏](http://mindhacks.cn/)
-
-### 会议
-* [NASA](https://www.nas.nasa.gov/publications/ams/ams.html)
+</head>
+<body>
+<div class="wrap">
+    <aside id="left">
 
 
 
-### OpenFOAM
-* [新手上路OpenFOAM](https://forum.cfdac.com/t/topic/632)
+<h3>网站</h3>
 
-* [OpenFOAM wiki](http://openfoamwiki.net/index.php/Main_Page)
+<ul><li><p><a href="https://www.cfd-online.com/">CFD online</a></p></li><li><p><a href="http://www.cfdreview.com/">CFD review</a></p></li><li><p><a href="http://www.cfluid.com/">流体中文网</a></p></li><li><p><a href="http://dyfluid.com/">东岳流体</a></p></li></ul>
 
-* [资源](https://openfoam.top/studyMaterials/#official-websites)
+<h3>项目组</h3>
 
-* [Wolf Dynamics](http://www.wolfdynamics.com/)
+<ul><li><p><a href="https://ctr.stanford.edu/">CTR</a></p></li><li><p><a href="http://www.pyfr.org/">pyFR</a></p></li><li><p><a href="https://web.stanford.edu/group/fpc/cgi-bin/fpcwiki/">FPCE</a></p></li><li><p><a href="https://lorenabarba.com/">Lorena A.Barba</a></p></li><li><p><a href="https://turbmodels.larc.nasa.gov/">NASA turblence</a></p></li><li><p><a href="https://www.ercoftac.org/">ERCOFTAC</a></p></li></ul>
 
-* [CFD direct](https://cfd.direct/openfoam/user-guide/)
+<h3>博客</h3>
 
-* [OpenFOAM Delta](https://www.openfoam.com/documentation/user-guide/)
-### 网课
-* [PyCFD](http://ohllab.org/CFD_course/index.html)
+<ul><li><p><a href="http://www.lions.odu.edu/~lluo/">luo</a></p></li><li><p><a href="https://sites.google.com/site/abrahamgxcfd/">abrahamgxCFD</a></p></li><li><p><a href="https://allaboutcfd-tomersblog.com/">Tomer</a></p></li><li><p><a href="http://www.thevisualroom.com/index.html">visualroom</a></p></li><li><p><a href="https://meywang.wordpress.com/">ME YongWang</a></p></li><li><p><a href="https://www.cnblogs.com/liusuanyatong/">硫酸亚铜</a></p></li><li><p><a href="http://cfd2012.com/index.html">CFD is the future</a></p></li><li><p><a href="https://www.cnblogs.com/LSCAX/">流沙</a></p></li><li><p><a href="http://mindhacks.cn/">刘未鹏</a></p></li></ul>
 
-* [高等流体力学](http://v.ucas.ac.cn/course/CourseIndex.do?menuCode=2&courseid=11326)
+<h3>会议</h3>
 
-* [并行计算](http://v.ucas.ac.cn/course/CourseIndex.do?menuCode=2&courseid=29814)
+<ul><li><a href="https://www.nas.nasa.gov/publications/ams/ams.html">NASA</a></li></ul>
 
-* [计算流体力学](http://v.ucas.ac.cn/course/CourseIndex.do?menuCode=2&courseid=f4a6e764a78f451f82b9083c3ad76fcb)
+<h3>OpenFOAM</h3>
 
-* [理论力学](http://v.ucas.ac.cn/course/CourseIndex.do?menuCode=2&courseid=f4a6e764a78f451f82b9083c3ad76fcb)
+<ul><li><p><a href="https://forum.cfdac.com/t/topic/632">新手上路OpenFOAM</a></p></li><li><p><a href="http://openfoamwiki.net/index.php/Main_Page">OpenFOAM wiki</a></p></li><li><p><a href="https://openfoam.top/studyMaterials/#official-websites">资源</a></p></li><li><p><a href="http://www.wolfdynamics.com/">Wolf Dynamics</a></p></li><li><p><a href="https://cfd.direct/openfoam/user-guide/">CFD direct</a></p></li><li><p><a href="https://www.openfoam.com/documentation/user-guide/">OpenFOAM Delta</a></p></li></ul>
 
-* [国立清华 流体力学](http://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=2)
+</aside>
+    <section id="right">
 
-* [intro to CFD](https://www.nas.nasa.gov/publications/ams/2018/06-19-18.html)
+<h3>网课</h3>
 
-* [流体力学科普](https://www.youtube.com/channel/UC3n-YhkPk1RaNsI-exHMgYA/videos)
-### 文章
-* [LBM wiki](https://en.wanweibaike.com/wiki-Lattice%20Boltzmann%20Method)
+<ul><li><p><a href="http://ohllab.org/CFD_course/index.html">PyCFD</a></p></li><li><p><a href="http://v.ucas.ac.cn/course/CourseIndex.do?menuCode=2&amp;courseid=11326">高等流体力学</a></p></li><li><p><a href="http://v.ucas.ac.cn/course/CourseIndex.do?menuCode=2&amp;courseid=29814">并行计算</a></p></li><li><p><a href="http://v.ucas.ac.cn/course/CourseIndex.do?menuCode=2&amp;courseid=f4a6e764a78f451f82b9083c3ad76fcb">计算流体力学</a></p></li><li><p><a href="http://v.ucas.ac.cn/course/CourseIndex.do?menuCode=2&amp;courseid=f4a6e764a78f451f82b9083c3ad76fcb">理论力学</a></p></li><li><p><a href="http://ocw.nthu.edu.tw/ocw/index.php?page=course&amp;cid=2">国立清华 流体力学</a></p></li><li><p><a href="https://www.nas.nasa.gov/publications/ams/2018/06-19-18.html">intro to CFD</a></p></li><li><p><a href="https://www.youtube.com/channel/UC3n-YhkPk1RaNsI-exHMgYA/videos">流体力学科普</a></p></li></ul>
 
-* [CFD toc](https://en.wanweibaike.com/wiki/Category-Computational_fluid_dynamics)
+<h3>文章</h3>
 
-* [CFD wiki](https://en.wanweibaike.com/wiki-Computational_fluid_dynamics)
-### 开源代码
-* [I do like CFD](http://ossanworld.com/cfdbooks/index.html)
+<ul><li><p><a href="https://en.wanweibaike.com/wiki-Lattice%20Boltzmann%20Method">LBM wiki</a></p></li><li><p><a href="https://en.wanweibaike.com/wiki/Category-Computational_fluid_dynamics">CFD toc</a></p></li><li><p><a href="https://en.wanweibaike.com/wiki-Computational_fluid_dynamics">CFD wiki</a></p></li></ul>
 
-* [NASA](https://software.nasa.gov/)
+<h3>开源代码</h3>
 
-* [Lorena A.Barba](https://lorenabarba.com/code/)
+<ul><li><p><a href="http://ossanworld.com/cfdbooks/index.html">I do like CFD</a></p></li><li><p><a href="https://software.nasa.gov/">NASA</a></p></li><li><p><a href="https://lorenabarba.com/code/">Lorena A.Barba</a></p></li><li><p><a href="http://www.southampton.ac.uk/~nwb/lectures/">SESM6036</a></p></li><li><p><a href="https://hifiles.stanford.edu/">stanford</a></p></li><li><p><a href="https://www.clawpack.org/gallery/index.html">clawpack</a></p></li></ul>
 
-* [SESM6036](http://www.southampton.ac.uk/~nwb/lectures/)
-
-* [stanford](https://hifiles.stanford.edu/)
-
-* [clawpack](https://www.clawpack.org/gallery/index.html)
+</section>
+</div>
+</body>
+</html>
 
 ***
 
