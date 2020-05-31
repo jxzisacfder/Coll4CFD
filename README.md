@@ -1,13 +1,19 @@
 # Coll4CFD
-
+<table width="500" border="0">
 <tr>
-<td style="width:100px;">
+<td colspan="2" style="background-color:#FFA500;">
+<h1>主要的网页标题</h1>
+</td>
+</tr>
+  
+<tr>
+<td style="background-color:#FFD700;width:100px;vertical-align:top;">
 <b>菜单</b><br>
 HTML<br>
 CSS<br>
 JavaScript
 </td>
-<td style="height:200px;width:100px;">
+<td style="background-color:#eeeeee;height:200px;width:400px;vertical-align:top;">
 内容在这里</td>
 </tr>
 
