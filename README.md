@@ -1,5 +1,5 @@
 # Coll4CFD
-<table width="700" border="0">
+<table width="1500" border="0">
 <tr>
 <td colspan="2" style="background-color:#FFA500;">
 <h1>计算流体力学</h1>
@@ -7,7 +7,7 @@
 </tr>
   
 <tr>
-<td style="background-color:#FFD700;width:350px;vertical-align:top;">
+<td style="height:1400px;width:750px;vertical-align:top;">
 <h3>网站</h3>
 
 <ul><li><p><a href="https://www.cfd-online.com/">CFD online</a></p></li><li><p><a href="http://www.cfdreview.com/">CFD review</a></p></li><li><p><a href="http://www.cfluid.com/">流体中文网</a></p></li><li><p><a href="http://dyfluid.com/">东岳流体</a></p></li></ul>
@@ -24,7 +24,7 @@
 
 <ul><li><a href="https://www.nas.nasa.gov/publications/ams/ams.html">NASA</a></li></ul>
 </td>
-<td style="background-color:#eeeeee;height:1400px;width:350px;vertical-align:top;">
+<td style="background-color:#eeeeee;height:1400px;width:750px;vertical-align:top;">
 <h3>OpenFOAM</h3>
 
 <ul><li><p><a href="https://forum.cfdac.com/t/topic/632">新手上路OpenFOAM</a></p></li><li><p><a href="http://openfoamwiki.net/index.php/Main_Page">OpenFOAM wiki</a></p></li><li><p><a href="https://openfoam.top/studyMaterials/#official-websites">资源</a></p></li><li><p><a href="http://www.wolfdynamics.com/">Wolf Dynamics</a></p></li><li><p><a href="https://cfd.direct/openfoam/user-guide/">CFD direct</a></p></li><li><p><a href="https://www.openfoam.com/documentation/user-guide/">OpenFOAM Delta</a></p></li></ul>
