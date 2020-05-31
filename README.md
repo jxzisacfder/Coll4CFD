@@ -2,7 +2,7 @@
 
 
 ***
-### 启发
+## 一些启发
 > Inspiration is for amateurs. Us professionals, we just go to work in the morning. -***Chuck Close***
 >
 > I don't write consecutively from the beginning to the next chapter and so  on to  the  end. I just fill in the gaps of the picture, of this jigsaw puzzle which is quite clear in my mind, picking out a piece  here  and  a piece there and filling out part of the sky and part of the landscape and part of the--I don't know, the carousing hunters. -***Nabokov***
