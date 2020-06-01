@@ -28,7 +28,7 @@
 
 <h3>博客</h3>
 
-<ul><li><p><a href="http://www.lions.odu.edu/~lluo/">luo</a></p></li><li><p><a href="https://sites.google.com/site/abrahamgxcfd/">abrahamgxCFD</a></p></li><li><p><a href="https://allaboutcfd-tomersblog.com/">Tomer</a></p></li><li><p><a href="http://www.thevisualroom.com/index.html">visualroom</a></p></li><li><p><a href="https://meywang.wordpress.com/">ME YongWang</a></p></li><li><p><a href="https://www.cnblogs.com/liusuanyatong/">硫酸亚铜</a></p></li><li><p><a href="http://cfd2012.com/index.html">CFD is the future</a></p></li><li><p><a href="https://www.cnblogs.com/LSCAX/">流沙</a></p></li><li><p><a href="http://mindhacks.cn/">刘未鹏</a></p></li></ul>
+<ul><li><p><a href="http://www.lions.odu.edu/~lluo/">luo</a></p></li><li><p><a href="https://sites.google.com/site/abrahamgxcfd/">abrahamgxCFD</a></p></li><li><p><a href="https://allaboutcfd-tomersblog.com/">Tomer</a></p></li><li><p><a href="http://www.thevisualroom.com/index.html">visualroom</a></p></li><li><p><a href="https://meywang.wordpress.com/">ME YongWang</a></p></li><li><p><a href="https://www.cnblogs.com/liusuanyatong/">硫酸亚铜</a></p></li><li><p><a href="http://cfd2012.com/index.html">CFD is the future</a></p></li><li><p><a href="https://www.cnblogs.com/LSCAX/">流沙</a></p></li><li><p><a href="http://mindhacks.cn/">刘未鹏</a></p></li><li><p><a href="https://blog.csdn.net/artorias123">一个科普博客</a></p></li></ul>
 
 <h3>会议</h3>
 
