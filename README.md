@@ -1,7 +1,8 @@
 # Coll4CFD
 
 ## To Do List
-* 做一个to do list
+* 学习网课 高级流体力学
+* [Python画图](https://mp.weixin.qq.com/s/jvebcPTqbdzjvjRdteK74g)
 
 ## 一些启发
 > Inspiration is for amateurs. Us professionals, we just go to work in the morning. -***Chuck Close***
@@ -64,7 +65,7 @@
 * [CPlusPlus](http://www.cplusplus.com/)
 
 ### Python
-* [Python3 cookbook](https://python3-cookbook.readthedocs.io/zh_CN/latest/preface.html)
+* https://mp.weixin.qq.com/s/jvebcPTqbdzjvjRdteK74g
 
 * [Python入门指南](https://python666.cn/cls/lesson/list/)
 
