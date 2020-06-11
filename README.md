@@ -65,7 +65,7 @@
 * [CPlusPlus](http://www.cplusplus.com/)
 
 ### Python
-* https://mp.weixin.qq.com/s/jvebcPTqbdzjvjRdteK74g
+* [Python3 cookbook](https://python3-cookbook.readthedocs.io/zh_CN/latest/preface.html)
 
 * [Python入门指南](https://python666.cn/cls/lesson/list/)
 
