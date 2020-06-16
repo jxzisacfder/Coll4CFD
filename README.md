@@ -3,12 +3,21 @@
 ## To Do List
 * 学习网课 高级流体力学
 * [Python画图](https://mp.weixin.qq.com/s/jvebcPTqbdzjvjRdteK74g)
+* [重返研一你会做什么](https://www.zhihu.com/question/351675467/answer/865953227)
+* [博士阶段你能学到什么](https://www.zhihu.com/question/308214349)
+* [LES与RANS review](https://mp.weixin.qq.com/s/kkvwfcYh1rR8z2HAXaB4SQ)
+* [CFD国产软件](https://mp.weixin.qq.com/s/ngdeXHaYW_DLqDEagwzkdQ)
 
 ## 一些启发
 > Inspiration is for amateurs. Us professionals, we just go to work in the morning. -***Chuck Close***
 >
 > I don't write consecutively from the beginning to the next chapter and so  on to  the  end. I just fill in the gaps of the picture, of this jigsaw puzzle which is quite clear in my mind, picking out a piece  here  and  a piece there and filling out part of the sky and part of the landscape and part of the--I don't know, the carousing hunters. -***Nabokov***
-
+>
+> 写作不是思考的结果，而是思考发生的媒介。
+>
+> 划失败的重要原因可以是看不到意义、乏自控力以及没有反馈；因此可以尝试沿着感兴趣的道路进行，同时进行多个项目也没关系。
+>
+>我们的生活元初都是混沌，一开始就设定好的分类可能并不符合知识增长的规律。
 ***
 <table width="4500" border="0">
 <tr>
@@ -91,6 +100,7 @@
 
 * [LeetCode](https://leetcode-cn.com/problemset/all/)
 
+* [编程类书籍](https://www.zhihu.com/question/50408698)
 ***
 
 ## 环境
@@ -99,6 +109,63 @@
 ### Linux
 * [鸟哥](http://linux.vbird.org/linux_basic/)
 ### 配置
+* [黑苹果使用体验](https://www.zhihu.com/question/22844873)
+
+* [家用NAS体验](https://www.zhihu.com/question/20392796)
+
+* [最完美的黑苹果配置](https://www.zhihu.com/question/35340215)
+
+* [MacOS缺点](https://www.zhihu.com/question/369229174)
+
+* [机械键盘推荐](https://www.zhihu.com/question/380566492)
+
+* [剪辑软件](https://www.zhihu.com/question/60081832)
+
+* [优雅的使用win10](https://www.zhihu.com/question/32129337)
+
+* [Mac显示器和键盘](https://www.zhihu.com/question/358550489)
+
+* [Mac键盘](https://www.zhihu.com/question/23225702)
+
+* [Mac显示器](https://www.zhihu.com/question/22394507)
+
+* [代码键盘推荐](https://www.zhihu.com/question/20930250)
+
+* [黑苹果配置教程](https://www.zhihu.com/question/35340215/answer/72157752)
+
+* [傻瓜式安装黑苹果教程](https://zhuanlan.zhihu.com/p/125720542)
+
+***
+### 行业
+* [有人用机器学习做CFD么](https://www.zhihu.com/question/27430192)
+
+* [CFD在工程上的案例](https://www.zhihu.com/question/56762151)
+
+* [CFD的权威期刊](https://www.zhihu.com/question/24304678)
+
+* [LBM入门攻略](https://www.zhihu.com/question/330388104/answer/1180289809)
+
+* [C++处理矩阵](https://www.zhihu.com/question/68169365/answer/524351247)
+
+* [使用vscode写大项目](https://www.zhihu.com/question/353722203)
+
+* [CFD国内课题组](https://www.zhihu.com/question/27737563)
+
+* [CFD美国课题组](https://www.zhihu.com/question/27518393)
+
+* [Zotero](https://sspai.com/post/56724)
+
+* [计算机书籍推荐](https://www.zhihu.com/question/273973062)
+
+* [计算机相关书籍](https://www.zhihu.com/question/23821125)
+
+* [计算机网课推荐](https://www.zhihu.com/question/29224038)
+
+* [湍流书籍推荐](https://www.zhihu.com/question/56287139)
+
+* [流体力学教材推荐](https://www.zhihu.com/question/20988412)
+
+* [流体力学经典著作](https://www.zhihu.com/question/335644582)
 
 ***
 
