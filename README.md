@@ -7,6 +7,8 @@
 * [博士阶段你能学到什么](https://www.zhihu.com/question/308214349)
 * [LES与RANS review](https://mp.weixin.qq.com/s/kkvwfcYh1rR8z2HAXaB4SQ)
 * [CFD国产软件](https://mp.weixin.qq.com/s/ngdeXHaYW_DLqDEagwzkdQ)
+* [计算机基础](http://www.study-area.org/compu/compu.htm)
+* [计算机网络基础](http://www.study-area.org/network/network.htm)
 
 ## 一些启发
 > Inspiration is for amateurs. Us professionals, we just go to work in the morning. -***Chuck Close***
