@@ -112,6 +112,8 @@
 
 ### Linux
 * [鸟哥](http://linux.vbird.org/linux_basic/)
+* [Linux Chinese HowTo](http://www.kaiyuanba.cn/content/linux/how/Chinese-HOWTO.html#toc10)
+* [The Linux Documentation Project](http://www.tldp.org/)
 ### 配置
 * [黑苹果使用体验](https://www.zhihu.com/question/22844873)
 
