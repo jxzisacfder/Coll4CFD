@@ -9,6 +9,7 @@
 * [CFD国产软件](https://mp.weixin.qq.com/s/ngdeXHaYW_DLqDEagwzkdQ)
 * [计算机基础](http://www.study-area.org/compu/compu.htm)
 * [计算机网络基础](http://www.study-area.org/network/network.htm)
+* [计算机网络checklist](http://linux.vbird.org/linux_basic/0120howtolinux/0120howtolinux_1.php)
 
 ## 一些启发
 > Inspiration is for amateurs. Us professionals, we just go to work in the morning. -***Chuck Close***
