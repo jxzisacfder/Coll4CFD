@@ -11,6 +11,10 @@
 * [计算机网络基础](http://www.study-area.org/network/network.htm)
 * [计算机网络checklist](http://linux.vbird.org/linux_basic/0120howtolinux/0120howtolinux_1.php)
 * [Linux学习](http://www.study-area.org/linux/linuxfr.htm)
+* [CFD人物介绍](https://mp.weixin.qq.com/s/-m9AXaUd_hZGCA4Evm9vaQ)
+* [Fluent学习资源备忘](https://mp.weixin.qq.com/s/s28StPlSc1-tAHLYlIbOLg)
+* [Fluent学习之路](https://mp.weixin.qq.com/s/s28StPlSc1-tAHLYlIbOLg)
+* [Fluent学习方法论](https://mp.weixin.qq.com/s/_Q5az_Gr3q2yCpktiMKCTg)
 
 ## 一些启发
 > Inspiration is for amateurs. Us professionals, we just go to work in the morning. -***Chuck Close***
