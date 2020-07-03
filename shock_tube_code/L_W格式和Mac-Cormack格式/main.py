@@ -1,3 +1,4 @@
+# Mac-cormack格式
 import numpy as np
 import function as fc
 import matplotlib.pyplot as plt
@@ -63,14 +64,12 @@ while flag:
     u_vector = u_t.copy()  # 更新
 
 
-uuu = np.loadtxt(open("/Users/jixingzhou/Desktop/python3.6/e.csv",
-                      "rb"), delimiter=",", skiprows=0)
 uu = fc.consevation_to_physics1(u_t)
 
 plt.figure(1)
 plt.style.use("ggplot")
 plt.plot(x, uu[0, :], color='b', marker='o')
-plt.plot(xx, uuu[:, 0], '-r')
+
 plt.xlabel('x')
 plt.ylabel('density')
 plt.savefig('m11', dpi=600, format='eps')
@@ -78,7 +77,7 @@ plt.savefig('m11', dpi=600, format='eps')
 plt.figure(2)
 plt.style.use("ggplot")
 plt.plot(x, uu[1, :], color='b', marker='o')
-plt.plot(xx, uuu[:, 1], '-r')
+
 plt.xlabel('x')
 plt.ylabel('velocity')
 plt.savefig('m22', dpi=600, format='eps')
@@ -86,7 +85,7 @@ plt.savefig('m22', dpi=600, format='eps')
 plt.figure(3)
 plt.style.use("ggplot")
 plt.plot(x, uu[2, :], color='b', marker='o')
-plt.plot(xx, uuu[:, 2], '-r')
+
 plt.xlabel('x')
 plt.ylabel('pressure')
 plt.savefig('m33', dpi=600, format='eps')

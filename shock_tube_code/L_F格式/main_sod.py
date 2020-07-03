@@ -57,15 +57,13 @@ while flag:
     dF = fc.fluxDiscre(dx, u_t)  # 计算dF
     u_vector = u_t.copy()  # 更新
 
-uuu = np.loadtxt(open("/Users/jixingzhou/Desktop/python3.6/e.csv",
-                      "rb"), delimiter=",", skiprows=0)
 
 uu = fc.consevation_to_physics(u_t)
 
 plt.figure(1)
 plt.style.use("ggplot")
 plt.plot(x, uu[0, :], color='b', marker='o')
-plt.plot(xx, uuu[:, 0], '-r')
+
 plt.xlabel('x')
 plt.ylabel('density')
 plt.savefig('f11', dpi=600, format='eps')
@@ -73,7 +71,7 @@ plt.savefig('f11', dpi=600, format='eps')
 plt.figure(2)
 plt.style.use("ggplot")
 plt.plot(x, uu[1, :], color='b', marker='o')
-plt.plot(xx, uuu[:, 1], '-r')
+
 plt.xlabel('x')
 plt.ylabel('velocity')
 plt.savefig('f22', dpi=600, format='eps')
@@ -81,7 +79,7 @@ plt.savefig('f22', dpi=600, format='eps')
 plt.figure(3)
 plt.style.use("ggplot")
 plt.plot(x, uu[2, :], color='b', marker='o')
-plt.plot(xx, uuu[:, 2], '-r')
+
 plt.xlabel('x')
 plt.ylabel('pressure')
 plt.savefig('f33', dpi=600, format='eps')

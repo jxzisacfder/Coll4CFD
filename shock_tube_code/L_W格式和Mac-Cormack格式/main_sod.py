@@ -1,4 +1,4 @@
-
+# L_W格式，对本问题失效
 import numpy as np
 import matplotlib.pyplot as plt
 import function as fc
