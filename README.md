@@ -16,6 +16,7 @@
 * [Fluent学习之路](https://mp.weixin.qq.com/s/s28StPlSc1-tAHLYlIbOLg)
 * [Fluent学习方法论](https://mp.weixin.qq.com/s/_Q5az_Gr3q2yCpktiMKCTg)
 * [8个Matlab技巧](https://mp.weixin.qq.com/s/ZBdCTOswtvDQcnvSoIJqUQ)
+* [黑苹果介绍](https://mp.weixin.qq.com/s/QoNK6pinNhlL9T_fGgz2Eg)
 
 ## 一些启发
 > Inspiration is for amateurs. Us professionals, we just go to work in the morning. -***Chuck Close***
