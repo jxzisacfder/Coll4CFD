@@ -18,7 +18,7 @@
 * [8个Matlab技巧](https://mp.weixin.qq.com/s/ZBdCTOswtvDQcnvSoIJqUQ)
 * [黑苹果介绍](https://mp.weixin.qq.com/s/QoNK6pinNhlL9T_fGgz2Eg)
 * [Pylance介绍](https://weibo.com/5722964389/J9Xvy2aOk)
-
+* [Python Checklist](https://github.com/coodict/python3-in-one-pic/blob/master/notebooks/py3-in-one-pic.ipynb)
 ## 一些启发
 > Inspiration is for amateurs. Us professionals, we just go to work in the morning. -***Chuck Close***
 >
