@@ -65,7 +65,7 @@
 
 <h3>网课</h3>
 
-<ul><li><p><a href="http://ohllab.org/CFD_course/index.html">PyCFD</a></p></li><li><p><a href="http://v.ucas.ac.cn/course/CourseIndex.do?menuCode=2&amp;amp;courseid=11326">高等流体力学</a></p></li><li><p><a href="http://v.ucas.ac.cn/course/CourseIndex.do?menuCode=2&amp;amp;courseid=29814">并行计算</a></p></li><li><p><a href="http://v.ucas.ac.cn/course/CourseIndex.do?menuCode=2&amp;amp;courseid=f4a6e764a78f451f82b9083c3ad76fcb">计算流体力学</a></p></li><li><p><a href="http://v.ucas.ac.cn/course/CourseIndex.do?menuCode=2&amp;amp;courseid=f4a6e764a78f451f82b9083c3ad76fcb">理论力学</a></p></li><li><p><a href="http://ocw.nthu.edu.tw/ocw/index.php?page=course&amp;amp;cid=2">国立清华 流体力学</a></p></li><li><p><a href="https://www.nas.nasa.gov/publications/ams/2018/06-19-18.html">intro to CFD</a></p></li><li><p><a href="https://www.youtube.com/channel/UC3n-YhkPk1RaNsI-exHMgYA/videos">流体力学科普</a></p></li></ul>
+<ul><li><p><a href="http://ohllab.org/CFD_course/index.html">PyCFD</a></p></li><li><p><a href="http://ocw.nthu.edu.tw/ocw/index.php?page=course&amp;amp;cid=2">国立清华 流体力学</a></p></li><li><p><a href="https://www.nas.nasa.gov/publications/ams/2018/06-19-18.html">intro to CFD</a></p></li><li><p><a href="https://www.youtube.com/channel/UC3n-YhkPk1RaNsI-exHMgYA/videos">流体力学科普</a></p></li></ul>
 
 <h3>文章</h3>
 
